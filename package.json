@@ -22,7 +22,7 @@
     }
   ],
   "dependencies": {
-    "request": "<2.16.0"
+    "request": "git://github.com/toehio/request.git#feature/oauth_sign_rsa_dependencies"
   },
   "scripts": {
     "test": "grunt test"
